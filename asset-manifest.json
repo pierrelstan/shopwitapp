@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shopwitapp/static/css/main.01cb1745.chunk.css",
-    "main.js": "/shopwitapp/static/js/main.3b9f97c6.chunk.js",
-    "main.js.map": "/shopwitapp/static/js/main.3b9f97c6.chunk.js.map",
+    "main.js": "/shopwitapp/static/js/main.9e016eb4.chunk.js",
+    "main.js.map": "/shopwitapp/static/js/main.9e016eb4.chunk.js.map",
     "runtime-main.js": "/shopwitapp/static/js/runtime-main.137b20ec.js",
     "runtime-main.js.map": "/shopwitapp/static/js/runtime-main.137b20ec.js.map",
     "static/css/2.c2353e9d.chunk.css": "/shopwitapp/static/css/2.c2353e9d.chunk.css",
     "static/js/2.4158023b.chunk.js": "/shopwitapp/static/js/2.4158023b.chunk.js",
     "static/js/2.4158023b.chunk.js.map": "/shopwitapp/static/js/2.4158023b.chunk.js.map",
     "index.html": "/shopwitapp/index.html",
-    "precache-manifest.d7d4b37906f43f5997c29a50b0907efb.js": "/shopwitapp/precache-manifest.d7d4b37906f43f5997c29a50b0907efb.js",
+    "precache-manifest.38c4d43125332e805f0abfa0380d0200.js": "/shopwitapp/precache-manifest.38c4d43125332e805f0abfa0380d0200.js",
     "service-worker.js": "/shopwitapp/service-worker.js",
     "static/css/2.c2353e9d.chunk.css.map": "/shopwitapp/static/css/2.c2353e9d.chunk.css.map",
     "static/css/main.01cb1745.chunk.css.map": "/shopwitapp/static/css/main.01cb1745.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.c2353e9d.chunk.css",
     "static/js/2.4158023b.chunk.js",
     "static/css/main.01cb1745.chunk.css",
-    "static/js/main.3b9f97c6.chunk.js"
+    "static/js/main.9e016eb4.chunk.js"
   ]
 }

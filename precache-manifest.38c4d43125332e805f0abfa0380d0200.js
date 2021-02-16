@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfbeafbc516e0ba8f2edee6955ea93db",
+    "revision": "fb28ff1aaf6efa7f3eed7dc3fc87e0fd",
     "url": "/shopwitapp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shopwitapp/static/css/2.c2353e9d.chunk.css"
   },
   {
-    "revision": "00ebe524612ecd269bef",
+    "revision": "033a7437cf17eb4c6e12",
     "url": "/shopwitapp/static/css/main.01cb1745.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shopwitapp/static/js/2.4158023b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00ebe524612ecd269bef",
-    "url": "/shopwitapp/static/js/main.3b9f97c6.chunk.js"
+    "revision": "033a7437cf17eb4c6e12",
+    "url": "/shopwitapp/static/js/main.9e016eb4.chunk.js"
   },
   {
     "revision": "37216d2a127e9a2e4374",
